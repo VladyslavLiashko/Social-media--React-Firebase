@@ -1,0 +1,66 @@
+.profileBar {
+  width: 15%;
+  height: 70vh;
+  background: #FFFFFF;
+  box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.25);
+  margin-top: 6%;
+  margin-left: 5%;
+}
+.profileBar .profileBar-wrapper {
+  max-width: 80%;
+  margin: auto;
+}
+.profileBar .profileBar-wrapper .profileBar-info {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  padding-bottom: 4%;
+  margin-top: 10%;
+}
+.profileBar .profileBar-wrapper .profileBar-info .profileBar-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 3%;
+}
+.profileBar .profileBar-wrapper .profileBar-info .profileBar-img img {
+  border-radius: 50px;
+}
+.profileBar .profileBar-wrapper .profileBar-info #user-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+}
+.profileBar .profileBar-wrapper .profileBar-info #user-mail {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profileBar .profileBar-wrapper .profile-action {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  padding-top: 15%;
+}
+.profileBar .profileBar-wrapper .profile-action .action-info {
+  padding-left: 8%;
+  padding-top: 5%;
+}
+.profileBar .profileBar-wrapper .profile-action .action-info h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+.profileBar .profileBar-wrapper .profile-action .action-info p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}/*# sourceMappingURL=ProfileBar.css.map */

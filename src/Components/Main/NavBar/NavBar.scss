@@ -1,0 +1,23 @@
+.navBar {
+    background: rgba(0, 5, 120, 0.8);
+    width: 20%;
+
+    nav {
+        padding: 10%;
+
+        .link {
+            display: flex;
+            align-items: center;
+            padding-top: 20%;
+
+            p {
+                font-style: normal;
+                font-weight: 700;
+                font-size: 18.6667px;
+                line-height: 22px;
+                color: rgba(255, 255, 255, 0.8);
+                padding-left: 5%;
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+.Post {
+  margin-top: 10%;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  max-height: 100vh;
+}
+.Post .postInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 80%;
+  padding-top: 5%;
+  margin: auto;
+}
+.Post .postInfo img {
+  border-radius: 10px;
+}
+.Post .postInfo p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+}
+.Post .postInfo h3 {
+  padding-top: 3%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.3632px;
+  line-height: 19px;
+  color: #636363;
+}
+.Post .postMain {
+  padding: 5%;
+  max-width: 80%;
+  margin: auto;
+}
+.Post .postMain h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+}
+.Post .postMain h2 {
+  padding-top: 3%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.3632px;
+  line-height: 19px;
+  color: #636363;
+}/*# sourceMappingURL=Post.css.map */

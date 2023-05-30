@@ -1,0 +1,66 @@
+.login {
+    max-width: 30%;
+    margin: auto;
+    margin-top: 10%;
+    background: rgba(76, 76, 228, 0.55);
+    // opacity: 0.55;
+    border-radius: 34px;
+
+    .wrapper {
+        opacity: 1;
+        max-width: 80%;
+        margin: auto;
+        padding-bottom: 10%;
+
+        h1 {
+            text-align: center;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 32px;
+            color: #000000;
+            padding-top: 10%;
+        }
+
+        p {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 25px;
+            text-align: center;
+            padding-top: 10%;
+            color: #000000;
+        }
+
+        .login-btn {
+            display: flex;
+            justify-content: center;
+            button {
+                width: 50%;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-radius: 34px;
+                border: none;
+                background-color: #FFFF;
+                margin-top: 10%;
+                // margin-bottom: 10%;
+
+
+                img {
+                    width: 20%;
+                }
+
+                p {
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    color: #000000;
+                    opacity: 0.5;
+                    padding-top: 0;
+                }
+            }
+        }
+
+    }
+
+
+}

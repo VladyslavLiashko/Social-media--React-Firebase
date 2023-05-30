@@ -1,0 +1,24 @@
+.Header {
+    background: #4E61C7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .header-logo {
+        width: 8%;
+
+        img {
+            width: 100%;
+            border-radius: 30px;
+        }
+    }
+
+    p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17.9057px;
+        line-height: 21px;
+
+        color: #000000;
+    }
+}

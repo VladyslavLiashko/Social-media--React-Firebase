@@ -1,0 +1,83 @@
+.Posts {
+  width: 30%;
+  margin-top: 6%;
+  margin-left: 3%;
+}
+.Posts .headerPosts {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 3%;
+}
+.Posts .headerPosts button {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19.6777px;
+  line-height: 23px;
+  background: #4E61C7;
+  border: none;
+  color: #FFFFFF;
+  width: 30%;
+}
+.Posts .menu {
+  position: fixed;
+  top: 10vw;
+  right: 20vw;
+  width: 50%;
+  height: 50%;
+  background: #FFF;
+  border: 1px solid black;
+  display: none;
+  transition: 1s;
+  border-radius: 12px;
+}
+.Posts .menu .menu-wrapper {
+  max-width: 80%;
+  margin: auto;
+  padding-top: 5%;
+}
+.Posts .menu .menu-wrapper h1 {
+  text-align: center;
+}
+.Posts .menu .menu-wrapper form label {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  display: block;
+  color: #000000;
+  padding-top: 5%;
+}
+.Posts .menu .menu-wrapper form input {
+  width: 100%;
+  height: 10vh;
+  margin-left: 5%;
+}
+.Posts .menu .menu-wrapper form #titleInput {
+  height: 5vh;
+}
+.Posts .menu .menuBtn {
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+}
+.Posts .menu .menuBtn button {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19.6777px;
+  line-height: 23px;
+  background: #4E61C7;
+  border: none;
+  color: #FFFFFF;
+  width: 30%;
+  height: 3vh;
+  border-radius: 10px;
+}
+.Posts .menu .menuBtn button:hover {
+  background: rgba(0, 5, 120, 0.8);
+  transition: 1s;
+}
+.Posts .menu.active {
+  display: block;
+}/*# sourceMappingURL=Posts.css.map */
