@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/VladyslavLiashko/Social-media--React-Firebase/static/css/main.905e543f.css",
-    "main.js": "/VladyslavLiashko/Social-media--React-Firebase/static/js/main.cdb30c66.js",
+    "main.js": "/VladyslavLiashko/Social-media--React-Firebase/static/js/main.a62034ee.js",
     "static/js/787.9181411e.chunk.js": "/VladyslavLiashko/Social-media--React-Firebase/static/js/787.9181411e.chunk.js",
     "static/media/Google.png": "/VladyslavLiashko/Social-media--React-Firebase/static/media/Google.f34acd08a40efe59187f.png",
     "index.html": "/VladyslavLiashko/Social-media--React-Firebase/index.html",
     "main.905e543f.css.map": "/VladyslavLiashko/Social-media--React-Firebase/static/css/main.905e543f.css.map",
-    "main.cdb30c66.js.map": "/VladyslavLiashko/Social-media--React-Firebase/static/js/main.cdb30c66.js.map",
+    "main.a62034ee.js.map": "/VladyslavLiashko/Social-media--React-Firebase/static/js/main.a62034ee.js.map",
     "787.9181411e.chunk.js.map": "/VladyslavLiashko/Social-media--React-Firebase/static/js/787.9181411e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.905e543f.css",
-    "static/js/main.cdb30c66.js"
+    "static/js/main.a62034ee.js"
   ]
 }
